@@ -7,3 +7,4 @@ This mod allows you to select your friends and if you go to server and if your f
 
 
 # For What did i fix this? IDK just for fun
+# That was all
