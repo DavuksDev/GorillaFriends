@@ -9,3 +9,4 @@ This mod allows you to select your friends and if you go to server and if your f
 # For What did i fix this? IDK just for fun
 # That was all
 ![Screenshot_95](https://github.com/user-attachments/assets/e7b5c38d-e8f1-403a-ae2c-a8c966f3a862)
+![Discord](https://discord.com/invite/DbjNTVBACM)
